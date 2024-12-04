@@ -89,7 +89,7 @@ int count_xmas(vector<vector<char>> &matrix, int i, int j) {
 }
 
 int main() {
-    int n = 2;
+    int n = 140;
     vector<vector<char>> matrix(n);
     
     for(int i = 0; i < n; ++i) {
